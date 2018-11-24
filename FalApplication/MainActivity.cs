@@ -36,6 +36,7 @@ namespace FalApplication
                 fals.Add("Hey " + name.Text + ", you are cringe a human. You are best of the " + surname.Text);
                 fals.Add("Hey " + name.Text + ", you are smart a human. You are best of the " + surname.Text);
                 fals.Add("Hey " + name.Text + ", you are handsome a human. You are best of the " + surname.Text);
+                youareaddafter=true;
             }
         }
         Random rnd = new Random();
